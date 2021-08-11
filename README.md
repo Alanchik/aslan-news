@@ -3,7 +3,7 @@
 
 ## Description
 
-This project represents simple web application - news portal, where users can read and interact with articles. Consumer can write his own articles, and do some acts with them (delete or update).
+This project represents a simple web application - news portal, where users can read and interact with articles. Consumer can write his own articles, and do some acts with them (delete or update).
 
 ---
 

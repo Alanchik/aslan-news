@@ -2,13 +2,13 @@
 
 ---
 
-##Description
+## Description
 
 This project represents simple web application - news portal, where users can read and interact with articles. Consumer can write his own articles, and do some acts with them (delete or update).
 
 ---
 
-##Requirements
+## Requirements
 * Installed JDK 11;
 * Installed Tomcat server;
 * Installed Maven 4.0.0;
@@ -16,6 +16,6 @@ This project represents simple web application - news portal, where users can re
 
 ---
 
-##Start application:
+## Start application:
 * Run 'gradle clean build' command, that must be completed with BUILD SUCCESS status.
 * Start your tomcat server and put .war file to the 'your tomcat package'/webapps.

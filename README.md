@@ -9,9 +9,9 @@ This project represents a simple web application - news portal, where users can 
 
 ## Requirements
 * Installed JDK 11;
-* Installed Tomcat server;
+* Installed Tomcat server 9;
 * Installed Maven 4.0.0;
-* Running PostgreSQL server with created DB 'news' with credentials in config file: db-connection-hikari.properties
+* Running PostgreSQL server with created DB 'news' and credentials in config file: db-connection-hikari.properties
 
 ---
 
